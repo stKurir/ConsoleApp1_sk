@@ -8,6 +8,7 @@ namespace ConsoleApp1_sk
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("novo");
+            //komentar jbarbir18
         }
     }
 }
