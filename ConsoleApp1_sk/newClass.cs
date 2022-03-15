@@ -6,5 +6,6 @@ namespace ConsoleApp1_sk
 {
     class newClass
     {
+        \\prazna metoda
     }
 }
