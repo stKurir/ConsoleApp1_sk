@@ -7,6 +7,7 @@ namespace ConsoleApp1_sk
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("novo")
         }
     }
 }
